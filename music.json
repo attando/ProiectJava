@@ -1,0 +1,34 @@
+ [
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=XUhVCoTsBaM",
+        "name": "Hard Times",
+        "artist": "Paramore",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=ObmXBy2IyaM",
+        "name": "James Bond",
+        "artist": "Scouting For Girls",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=o0u4M6vppCI",
+        "name": "Shia LaBeouf",
+        "artist": "Rob Cantor",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "name": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "soundId": "sound.mcdisc.4"
+    }
+]
